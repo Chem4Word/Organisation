@@ -1,3 +1,3 @@
-# <img src="https://raw.github.com/Chem4Word/Organsation/master/Images/C4W-Logo-128.png" alt="Logo" style="max-width:100%;" />Chem4Word
+# Chem4Word <img src="https://raw.githubusercontent.com/Chem4Word/Organsation/master/Images/C4W-Banner-329x57.png" alt="Chem4Word Logo"/>
 
 Details about who runs the Chem4Word project
