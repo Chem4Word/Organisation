@@ -2,7 +2,7 @@
 
 The Chem4Word project is run by :-
 
-|Picture|Name|Link|
+||Name|Profile|
 | --- | --- | --- |
 |<img src="https://avatars2.githubusercontent.com/u/10074162?s=80&amp;v=4" alt="@deadlyvices" width="80" height="80">|Clyde Davies|https://github.com/deadlyvices|
 |<img src="https://avatars2.githubusercontent.com/u/13162784?s=80&amp;v=4" alt="@MikeWilliams-UK" width="80" height="80">|Mike Williams|https://github.com/MikeWilliams-UK|
