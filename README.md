@@ -2,8 +2,8 @@
 
 The Chem4Word project is run by :-
 
-Clyde Davies
+Clyde Davies https://github.com/deadlyvices
 
-Mike Williams
+Mike Williams https://github.com/MikeWilliams-UK
 
-Andy Wright
+Andy Wright https://github.com/Wydna
